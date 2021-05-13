@@ -1497,8 +1497,8 @@ button,
   background-color: transparent;
   border-radius: 0.375em;
   border: 0;
-  box-shadow: inset 0 0 0 2px #c3317d;
-  color: #c3317d !important;
+  box-shadow: inset 0 0 0 2px #bcbec0;
+  color: #bcbec0 !important;
   cursor: pointer;
   display: inline-block;
   font-family: "Roboto Slab", serif;
