@@ -1201,7 +1201,8 @@ input[type="radio"] + label:before {
     line-height: 1;
     text-transform: none !important;
     font-family: 'Font Awesome 5 Free';
-    font-weight: 400; }
+    font-weight: 400;
+    color: #c3317d; }
   .icon > .label {
     display: none; }
   .icon:before {
